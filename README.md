@@ -56,6 +56,8 @@ npm install express mysql2 sequelize jsonwebtoken bcryptjs body-parser dotenv
 ## Collection do Postman para a utilização dos endpoints
 Arquivo: nodejs-api-crud.postman_collection.json
 
+https://documenter.getpostman.com/view/37311722/2sA3s3JWzn
+
 ## Swagger da API
 Caminho: http://localhost:3000/api-docs/
 
